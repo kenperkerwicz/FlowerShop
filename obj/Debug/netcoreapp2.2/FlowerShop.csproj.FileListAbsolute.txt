@@ -1,0 +1,11 @@
+/Users/apple/workspace/csharp/exercises/flowershop/bin/Debug/netcoreapp2.2/FlowerShop.deps.json
+/Users/apple/workspace/csharp/exercises/flowershop/bin/Debug/netcoreapp2.2/FlowerShop.runtimeconfig.json
+/Users/apple/workspace/csharp/exercises/flowershop/bin/Debug/netcoreapp2.2/FlowerShop.runtimeconfig.dev.json
+/Users/apple/workspace/csharp/exercises/flowershop/bin/Debug/netcoreapp2.2/FlowerShop.dll
+/Users/apple/workspace/csharp/exercises/flowershop/bin/Debug/netcoreapp2.2/FlowerShop.pdb
+/Users/apple/workspace/csharp/exercises/flowershop/obj/Debug/netcoreapp2.2/FlowerShop.csprojAssemblyReference.cache
+/Users/apple/workspace/csharp/exercises/flowershop/obj/Debug/netcoreapp2.2/FlowerShop.csproj.CoreCompileInputs.cache
+/Users/apple/workspace/csharp/exercises/flowershop/obj/Debug/netcoreapp2.2/FlowerShop.AssemblyInfoInputs.cache
+/Users/apple/workspace/csharp/exercises/flowershop/obj/Debug/netcoreapp2.2/FlowerShop.AssemblyInfo.cs
+/Users/apple/workspace/csharp/exercises/flowershop/obj/Debug/netcoreapp2.2/FlowerShop.dll
+/Users/apple/workspace/csharp/exercises/flowershop/obj/Debug/netcoreapp2.2/FlowerShop.pdb
